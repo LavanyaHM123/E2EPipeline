@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Blaze demo API test","Verify flights search with API","SUCCESS","12:39:37","0.0","10.36"
+"Blaze demo smoke API test","Verify flights search with API","SUCCESS","12:39:51","0.0","18.43"
+"Find flights UI test","Find flights","SUCCESS","12:40:27","0.0","10.74"
